@@ -1,0 +1,24 @@
+.square {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
+
+.circle {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  border-radius: 50%;
+}
+
+/* .className #idName Element {
+    Property: Value;
+    } */
+
+p {
+  /* all paragraph tags will have this style */
+  color: white;
+  color: #ffffff;
+  color: #fff;
+  /* All the same value */
+}
